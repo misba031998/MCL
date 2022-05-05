@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="loginAdEtPhone">
+        <item name="android:inputType">text</item>
+        <item name="android:maxLength">20</item>
+        <item name="android:hint">@string/userId</item>
+        <item name="aet_cornerRadius">15dp</item>
+        <item name="android:paddingStart">30dp</item>
+        <item name="aet_backgroundColor">@color/ShadwoWhite</item>
+        <!--<item name="android:layout_marginTop">@dimen/dimen35Dp</item>-->
+    </style>
+    <style name="loginAdEtPassword">
+        <!-- <item name="android:gravity">clip_horizontal</item>-->
+        <!-- <item name="android:drawableEnd">@drawable/eye</item>-->
+        <item name="android:inputType">textPassword</item>
+        <item name="android:hint">@string/password</item>
+        <item name="aet_cornerRadius">15dp</item>
+        <item name="android:paddingStart">30dp</item>
+        <item name="aet_backgroundColor">@color/ShadwoWhite</item>
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+</resources>

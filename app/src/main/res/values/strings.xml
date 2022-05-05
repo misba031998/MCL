@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MCL</string>
+    <string name="userId">USER-ID</string>
+    <string name="password">PASSWORD</string>
+    <string name="login">LOGIN</string>
+    <string name="forgotePass">FORGOTE PASSWORD?</string>
+    <string name="selectLoans">SELECT LOAN</string>
+    <string name="enterName">ENTER NAME</string>
+
+    //
+    <string name="nameOfApplicant">Applicant Name:</string>
+    <string name="ageOfApplicant">Applicant Age:</string>
+    <string name="dobOfApplicant">Applicant DOB:</string>
+    <string name="genderOfApplicant">Applicant Gender:</string>
+    <string name="nameOfMetVerification">Name of Person Met During Verification:</string>
+    <string name="select">----SELECT----</string>
+    <string name="writeTheNameOfPersion">Write the Name Of Person</string>
+    <string name="relationOfMetPrsonWithAplicant">Relation Of The Met Person With Applicant</string>
+    <string name="phoneNumberMetperson">Number Of The Met Person</string>
+    <string name="otp">OTP</string>
+    <string name="purposeOfLoan">Purpose Of Loan</string>
+    <string name="currentResidentialDetails"> CURRENT RESIDENTIAL DETAILS</string>
+    <string name="ownershipOfHouse">Ownership Of House</string>
+    <string name="uploadOwnrshipProuf">Upload Ownership Proof:</string>
+    <string name="nameOfLandlord">Name Of Landlord</string>
+    <string name="contactofLandLord">Contact Number Of Landlord</string>
+    <string name="addressOfLandlord">Address Of Landlord</string>
+    <string name="flateNoHouse">FLAT NO/HOUSE NO/PLOT NO</string>
+    <string name="floor">FLOOR</string>
+    <string name="galiName">GALI NUMBER/GALI NAME</string>
+    <string name="sectorNo">SECTOR NO/POCKET NO/KHASRA NO</string>
+    <string name="area">AREA</string>
+    <string name="district">DISTRICT</string>
+    <string name="state">STATE</string>
+    <string name="pincode">PINCODE</string>
+    <string name="landmark">LANDMARK</string>
+    <string name="specialRemark">ANY SPECIAL REMARK FOR FINDING ADDRESS</string>
+    <string name="phoneNumber">Phone Number(RESIDENCE)</string>
+    <string name="enterRefaranceName"></string>
+    <string name="contactNumber">Contact Number:</string>
+
+</resources>
